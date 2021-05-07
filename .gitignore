@@ -9,7 +9,7 @@
 */.classpath
 */.project
 */.settings
-
+.metadata
 
 # Log file
 *.log
